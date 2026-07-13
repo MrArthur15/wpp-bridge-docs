@@ -35,6 +35,13 @@ Este repositório é uma **documentação de arquitetura de referência** para f
 ---
 <br><br>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/SYSTEM_LOG-CONTEXT_SWITCH-111B21?style=for-the-badge&logo=google-translate&logoColor=00A884">
+  <p><i><sub>Loading English documentation...</sub></i></p>
+</div>
+
+<br><br>
+
 # WPP Business Bridge (Enterprise Integration Middleware)
 
 **WPP Business Bridge** is a distributed middleware architecture developed to integrate real-time communication flows (WhatsApp) with corporate back-end ecosystems (.NET Core / MySQL). The system acts as a secure, resilient, and scalable data bus between the web interface and the business server.
